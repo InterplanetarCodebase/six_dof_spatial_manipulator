@@ -7,7 +7,7 @@
 
 2.   Install the following dependencies also:
 
-    ```
+    
     sudo apt-get update
     
     sudo apt-get install ros-noetic-move-base-msgs
@@ -18,7 +18,7 @@
   
     sudo apt install ros-noetic-joint-state-publisher-gui
 
-    ```
+    
 
 3.  It is advised to install VS Code and the ROS extension from Microsoft while rendering the URDF
 
