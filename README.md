@@ -29,4 +29,4 @@
 
     Enable Autosave from the 'File' tab for live rendering
 
-    <b>Side Note</b>: Avoid signing into your GitHub or Microsoft acccount from VS Code, as it may install unwanted extensions from your previous VS Code environments (_if any_) and cause problems
+    <b>Side Note</b>: Avoid signing into your GitHub or Microsoft account from VS Code, as it may install unwanted extensions from your previous VS Code environments (_if any_) and cause problems
