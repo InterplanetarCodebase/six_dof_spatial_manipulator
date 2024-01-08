@@ -24,7 +24,7 @@
 
     Install VS Code from the [.deb package](https://go.microsoft.com/fwlink/?LinkID=760868)
 
-    From the left extension panel, search and install the ROS extension (from Microsoft) 
+    From the left 'Extension' panel, search and install the 'ROS' extension (from Microsoft) 
 
     Switch to the pre-release version after the ROS extension installation.
 
