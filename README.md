@@ -3,7 +3,7 @@
 
 1.   You should have ROS Noetic installed on Ubuntu 20.04. Follow [this](https://wiki.ros.org/noetic/Installation/Ubuntu) link if you don't have ROS installed. Choose ROS Noetic Desktop Full Option
 
-2.   Install the follwong dependencies also:
+2.   Install the following dependencies also:
 
     `sudo apt-get install ros-noetic-move-base-msgs`
 
@@ -21,7 +21,7 @@
 
     From the left extension panel, search and install the ROS extension (from Microsoft) 
 
-    Switch to pre-release version after the ROS extension installation.
+    Switch to the pre-release version after the ROS extension installation.
 
     It should look like this:
 
