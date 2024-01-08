@@ -7,7 +7,6 @@
 
 2.   Install the following dependencies also:
 
-    
     sudo apt-get update
     
     sudo apt-get install ros-noetic-move-base-msgs
